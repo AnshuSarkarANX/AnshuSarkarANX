@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![coding](coding.gif)
 
 - 🌱 I’m currently learning ![React Js](React-icon.png)
 
