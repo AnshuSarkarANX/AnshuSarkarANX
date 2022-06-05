@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Twitter_logo.gif" alt="gif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" alt="gif" height="30" width="40" /></a>
+<a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Twitter_logo.gif" alt="gif" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" alt="gif" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I know:</h3>
