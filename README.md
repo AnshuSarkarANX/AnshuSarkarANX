@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Twitter_logo.gif" alt="gif" height="50" width="50" /></a>
+<a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/twitter_logo.gif" alt="gif" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" alt="gif" height="50" width="50" /></a>
 <a href="https://discord.com/users/670951225512165376/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/372108630_DISCORD_LOGO_1080.gif" alt="gif" height="50" width="50" /></a>
 </p>
