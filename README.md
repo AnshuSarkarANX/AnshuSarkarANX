@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ![React Js](React-icon.png)
 
-- 📫 How to reach me - [Email](mailto:anshusarkaranx@gmail.com)
+- 📫 How to reach me - [Email](anshusarkaranx@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
