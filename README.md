@@ -29,9 +29,9 @@
 <a href="https://twitter.com/anshu7anx" target="blank">
   <img src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/twitter_logo.gif" height="45" />
 </a>
-<a href="https://linkedin.com/in/anshu-sarkar/" target="blank">
+<!-- <a href="https://linkedin.com/in/anshu-sarkar/" target="blank">
   <img src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" height="45" />
-</a>
+</a> -->
 <a href="https://discord.com/users/670951225512165376/" target="blank">
   <img src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/372108630_DISCORD_LOGO_1080.gif" height="45" />
 </a>
